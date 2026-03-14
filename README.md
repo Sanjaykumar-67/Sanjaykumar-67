@@ -1,26 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Blockchain+Enthusiast;Cybersecurity+Explorer;Building+Innovative+Projects" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sanjaykumar-67&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<h3 align="center">Full Stack Developer | AI & Blockchain Enthusiast</h3>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 * 🎓 Information Technology Student
-* 🚀 Passionate about **AI, Blockchain, Cybersecurity & Full Stack Development**
+* 🚀 Interested in **AI, Blockchain, Cybersecurity and Full Stack Development**
 * 🔭 Currently working on **Blockchain-Based Fake Profile Detection System**
-* 🌱 Learning **Advanced Web Development & Machine Learning**
-* ⚡ Love building **real-world tech solutions**
+* 🌱 Continuously learning **Machine Learning and Advanced Web Development**
+* 💡 Passionate about building **real-world tech solutions**
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
 🔗 Portfolio Website
 https://sanjaykumar-s.netlify.app/
@@ -30,33 +23,33 @@ https://github.com/Sanjaykumar-67
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
-### 🧠 AI / ML
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-### ⛓ Blockchain
+### Blockchain
 
 <p>
 <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 </p>
 
-### 🛠 Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -64,16 +57,16 @@ https://github.com/Sanjaykumar-67
 
 ---
 
-# 📊 GitHub Stats Dashboard
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjaykumar-67&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjaykumar-67&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaykumar-67&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sanjaykumar-67&theme=tokyonight&hide_border=true"/>
@@ -81,15 +74,15 @@ https://github.com/Sanjaykumar-67
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjaykumar-67&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjaykumar-67&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjaykumar-67&theme=tokyo-night"/>
@@ -97,35 +90,22 @@ https://github.com/Sanjaykumar-67
 
 ---
 
-# 🧠 Current Focus
+## 🎯 Current Focus
 
-🚀 Blockchain Fake Profile Detection System
-🔍 Cybercrime Investigation Tools
-🤖 Machine Learning for Social Media Analysis
-🌐 Advanced Full Stack Applications
-
----
-
-# 📌 Featured Projects
-
-### 🔐 Blockchain Fake Profile Detection
-
-A blockchain-powered system designed to detect fake social media profiles and assist investigative agencies.
-
-### 🌐 Personal Portfolio
-
-A responsive developer portfolio showcasing projects, skills, and experience.
+* 🔐 Blockchain Fake Profile Detection System
+* 🤖 Machine Learning for Social Media Analysis
+* 🌐 Building Advanced Full Stack Applications
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: Add your LinkedIn link
+💼 LinkedIn: Add your LinkedIn profile link
 🌐 Portfolio: https://sanjaykumar-s.netlify.app/
 
 ---
 
 <p align="center">
-⚡ <b>"Code • Create • Innovate"</b> ⚡
+<b>Code • Build • Innovate</b>
 </p>
